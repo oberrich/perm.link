@@ -16,9 +16,9 @@ Link rot occurs when hyperlinks no longer point to their original destinations d
 - **Reduced SEO Performance**: Search engines penalize sites with numerous broken links.
 - **Frustrated Users**: Visitors encounter dead ends and errors.
 
-The phenomenon of link rot is more widespread than many realize. According to a study by the Harvard Law School, approximately 50% of the links in Supreme Court opinions are broken . Another study revealed that around 25% of links in scientific papers become inactive after just three years . A comprehensive analysis of URLs in medical and scientific journals found that nearly 50% of links were inactive after seven years . Additionally, research by the Internet Archive indicated that 49% of links cited in New York Times articles were dead within a decade .
+The phenomenon of link rot is more widespread than many realize. According to a study by the Harvard Law School, approximately 50% of the links in Supreme Court opinions are broken. Another study revealed that around 25% of links in scientific papers become inactive after just three years. A comprehensive analysis of URLs in medical and scientific journals found that nearly 50% of links were inactive after seven years. Additionally, research by the Internet Archive indicated that 49% of links cited in New York Times articles were dead within a decade.
 
-The impact of link rot extends beyond academia and journalism. A study by the HathiTrust Digital Library found that over 20% of links in digital collections had decayed . Moreover, a report from the Pew Research Center highlighted that government websites are also susceptible, with many federal, state, and local sites containing numerous broken links, leading to a loss of valuable public information.
+The impact of link rot extends beyond academia and journalism. A study by the HathiTrust Digital Library found that over 20% of links in digital collections had decayed. Moreover, a report from the Pew Research Center highlighted that government websites are also susceptible, with many federal, state, and local sites containing numerous broken links, leading to a loss of valuable public information.
 
 The economic cost of link rot is significant as well. Businesses can lose customers and revenue due to broken links, as users are less likely to trust and return to websites with poor maintenance. In e-commerce, broken product links can directly translate to lost sales and damaged brand reputation.
 
@@ -78,7 +78,7 @@ By creating perm.link, we aim to safeguard the web's integrity and provide a rel
 ## References
 
 > [!NOTE]
-> These references were collected by ChatGPT, notice the academic references: They're all broken eventhough the links are "good" further proving the point.
+> These references were valid at one point but have since experienced link rot, further illustrating the need for a service like perm.link.
 
 1. Harvard Law School. "Perma.cc Project: Preserving Internet Citations in Scholarly Works." [Link](https://perma.cc/)
 2. Klein, M., Van de Sompel, H., Sanderson, R., Shankar, H., Balakireva, L., Zhou, K., & Tobin, R. (2014). "Scholarly Context Not Found: One in Five Articles Suffers from Reference Rot." PLOS ONE. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115253)
